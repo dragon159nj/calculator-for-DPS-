@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dps-calculater"
+name = "dps-calculator"
 version = "0.1.0"
 description = ""
 authors = ["dragon_159_nj <NaeNaejacobsen@gmail.com>"]
